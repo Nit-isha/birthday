@@ -3,7 +3,7 @@ import celestina from "./images/celestina.jpeg";
 import tripti from "./images/tripti.jpeg";
 import swikriti from "./images/swikriti.jpeg";
 
-export default [
+const data = [
   {
     id: 1,
     name: "Nitisha Gupta",
@@ -29,3 +29,5 @@ export default [
     image: swikriti,
   },
 ];
+
+export default data;
